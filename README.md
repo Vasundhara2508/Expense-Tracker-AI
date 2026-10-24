@@ -152,5 +152,4 @@ All 15 automated unit tests verify:
 - **Macro F1-Score:** `99.63%`.
 - **Model Path:** [ai/models/expense_category_model.joblib](file:///d:/Min-Gopi_proj/ai/models/expense_category_model.joblib).
 - **Domain Adaptation:** Hybrid inference via [ai/predict_category.py](file:///d:/Min-Gopi_proj/ai/predict_category.py) ensures seamless handling of Indian payment descriptions (UPI, Swiggy, Zomato, Metro, Auto, Rent).
-#   E x p e n s e - T r a c k e r - A I  
- 
+#
