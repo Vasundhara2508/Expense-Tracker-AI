@@ -1,0 +1,278 @@
+date,description,amount,currency,transaction_type,category,original_category,payment_method,is_usd
+2022-03-02 10:11:00,Brownie,50.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-03-02 10:11:00,To lended people,300.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-03-01 19:50:00,Dinner,78.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-03-01 18:56:00,Metro,30.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-03-01 18:22:00,Snacks,67.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-03-01 18:22:00,From vicky,100.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-03-01 18:21:00,From dad,500.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-02-28 11:56:00,Pizza,339.15,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-28 11:45:00,From kumara,200.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-02-27 15:29:00,Lunch,243.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-26 20:16:00,Unspecified expense,25.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-26 17:37:00,From dad,1500.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-02-26 17:37:00,To karthi,100.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-02-26 16:01:00,Unspecified expense,1700.0,INR,Expense,Entertainment,Social Life,Net Banking / UPI (CUB),False
+2022-02-26 14:07:00,Snacks,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-26 01:39:00,Tea lights,84.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-25 12:08:00,Unspecified expense,33.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-24 22:32:00,Unspecified expense,303.0,INR,Expense,Household / Utilities,Household,Net Banking / UPI (CUB),False
+2022-02-24 22:21:00,Creamstone,289.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-24 19:15:00,Tamen,324.7,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-23 17:35:00,Hoodie for gobi,399.0,INR,Expense,Shopping,Apparel,Net Banking / UPI (CUB),False
+2022-02-23 16:06:00,Eggs,83.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-23 12:38:00,Earphone,399.0,INR,Expense,Shopping,Apparel,Net Banking / UPI (CUB),False
+2022-02-22 06:33:00,Auto to laxmi mills,120.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-02-21 22:15:00,It better be worth it,1300.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-02-21 16:06:00,Travel to koyambedu,138.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-02-21 15:40:00,Stuffs,336.0,INR,Expense,Household / Utilities,Household,Net Banking / UPI (CUB),False
+2022-02-21 15:38:00,Train cbe to chn,201.8,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-02-20 15:24:00,Lunch,200.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-19 23:03:00,Random stuff for drinks,111.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-19 21:57:00,Snacks,250.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-19 21:35:00,Bus ticket,1575.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-02-19 20:45:00,Took from sbi,200.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-02-19 20:45:00,Ramen with gobi,380.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-19 08:26:00,Metro,60.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-02-19 06:27:00,To auto anna,50.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-02-19 06:18:00,To egmore,270.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-02-18 23:01:00,Kfc dinner,348.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-17 13:11:00,Lunch,80.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-16 16:57:00,Side dishes,165.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-16 16:57:00,Kfc,475.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-13 21:54:00,Games,100.0,INR,Expense,Entertainment,Social Life,Net Banking / UPI (CUB),False
+2022-02-12 21:20:00,Dinner with aravind and buddies,491.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-12 16:04:00,Mirror,70.0,INR,Expense,Household / Utilities,Household,Net Banking / UPI (CUB),False
+2022-02-12 14:48:00,Lunch,80.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-12 14:47:00,From dad,10000.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-02-11 22:41:00,Dinner with aravind,373.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-10 20:15:00,Kfc dinner,641.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-08 10:37:00,From dad,1000.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-02-08 09:18:00,Bean bag,2099.0,INR,Expense,Household / Utilities,Household,Net Banking / UPI (CUB),False
+2022-02-07 07:08:00,Auto to Gobi's place,214.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-02-06 18:32:00,Cakepark,125.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-06 17:53:00,To kumara,150.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-06 17:52:00,To chennai,1000.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-02-06 16:41:00,Salary from dad,5000.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-02-06 16:40:00,To gobi,1500.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-02-04 20:28:00,Shawarma,80.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-03 14:53:00,Good soup,50.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-03 08:59:00,To gowdham,150.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-02-02 20:15:00,Parotta,120.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-02 20:14:00,From dad,500.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-31 08:44:00,Vnr to apk,50.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-01-31 08:27:00,To vicky,200.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-31 08:26:00,To ksr station,153.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-01-30 19:17:00,Dinner,155.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-30 19:01:00,Cycle gap,120.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-30 12:28:00,Brunch,105.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-29 21:56:00,Rapido to pg,44.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-01-29 14:44:00,Sent to barath,100.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-28 21:58:00,Banana,10.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-28 14:23:00,Lunch with company,138.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-27 21:25:00,Rapido to pg,43.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-01-27 13:41:00,To vicky,300.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-27 13:41:00,To vishnu,100.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-27 13:39:00,Zinger box meal,279.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-27 13:38:00,From vicky,300.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-27 13:38:00,From dad,1500.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-26 17:45:00,Snacks,115.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-26 17:45:00,Vishnu 100 gowdham 25,125.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-26 16:52:00,Paani poori,25.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-25 13:35:00,Kfc date with myself,259.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-25 10:23:00,Lemon tea,18.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-25 09:20:00,Train to vnr,325.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-01-24 20:17:00,Snack,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-24 14:08:00,Lunch with company,133.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-23 21:45:00,Pepsi,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-23 21:41:00,Dinner,465.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-23 21:29:00,Sent to vicky,300.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-23 21:29:00,Lunch,302.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-23 21:29:00,From vicky,310.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-23 21:27:00,Snacks with preethi and azar,176.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-23 21:27:00,Badminton,200.0,INR,Expense,Entertainment,Social Life,Net Banking / UPI (CUB),False
+2022-01-23 21:27:00,From dad,2000.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-21 14:22:00,Lunch with company,188.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-21 11:47:00,Snacks,37.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-21 11:47:00,From vicky,200.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-19 14:27:00,Lunch + chocolate for preethi,171.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-18 20:54:00,Dinner,301.15,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-18 17:10:00,Snack with preethi,59.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-18 13:51:00,Lunch with company,148.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-18 12:59:00,To kumara,200.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-18 12:59:00,From dad,1000.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-17 18:31:00,Eve snack,100.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-15 21:17:00,Bus to Bangalore,1365.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-01-15 21:16:00,From dad,1500.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-15 21:16:00,Snacks,70.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-14 16:58:00,Kumara,170.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-14 16:56:00,Siva + 100 cash,70.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-14 16:56:00,Gundan + prasanna,340.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-14 16:55:00,Dinesh and maddy + 100 cash,240.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-14 16:54:00,From gowdham,340.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-14 16:54:00,Lunch pongal,1530.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-13 20:46:00,Dinner,66.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-13 19:10:00,From dad,1000.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-13 17:47:00,Rapido to pg,43.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-01-12 22:44:00,Recharge by gowdham,479.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-12 13:25:00,Pizza,301.75,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-12 13:25:00,From kumara,200.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-11 14:07:00,Lunch with not preethi,135.5,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-10 14:04:00,Friday snacks with preethi gang,106.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-08 13:46:00,From gowdham,260.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-08 13:45:00,Lunch with gowdham,535.3,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-08 13:38:00,Rent,4580.0,INR,Expense,Rent,Household,Net Banking / UPI (CUB),False
+2022-01-07 13:51:00,Coffee + biscuit,15.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-06 21:30:00,From barath and shakur,440.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-06 20:58:00,Ketch up,20.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-06 20:13:00,Dinner with roommate,877.81,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-06 14:22:00,Bingo,10.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-06 11:48:00,Rapido to pg,42.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-01-05 20:23:00,McDonald's with company,211.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-05 14:46:00,Lended money returned to vishnu,40.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-05 14:42:00,Lended money returned to kumara,30.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-05 14:42:00,Jan 2nd with shakur and barath,354.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-05 14:39:00,To gobi 1st 1/4th,500.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-05 14:37:00,To abijith and to vicky lend money returned,500.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-05 14:35:00,Refund for bus ticket,60.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-01-05 14:30:00,Lunch with company,388.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-04 22:11:00,Arrear and reval fee,1400.0,INR,Expense,Education,Education,Net Banking / UPI (CUB),False
+2022-01-04 22:10:00,Salary,8000.0,INR,Income,Income,Salary,Net Banking / UPI (CUB),False
+2022-01-04 13:53:00,Lunch with company,106.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-04 08:01:00,To vicky,80.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-04 07:58:00,Sent to preethi,107.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-03 22:15:00,Dairy milk,10.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-03 21:54:00,From barath,201.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-03 21:12:00,From gpay,5.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-03 21:11:00,From shakur,140.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-03 14:31:00,Lunch unlimited nv,300.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-03 14:30:00,From abi,300.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-01-02 20:33:00,Tablet to gowdham,8.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-01-02 20:32:00,Dinner with barath,200.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-02 14:16:00,Train to vnr,725.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-01-01 21:46:00,Snacks,85.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-01-01 21:45:00,From dad,1000.0,INR,Income,Income,Allowance,Net Banking / UPI (CUB),False
+2021-12-30 14:10:00,To barath,20.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-30 13:56:00,Pg to office,43.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2021-12-30 13:36:00,From kumara,30.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2021-12-30 12:43:00,Horlicks + kolakattai,25.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-30 12:38:00,Bommasandra to pg,199.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2021-12-30 12:37:00,From Deepak,250.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2021-12-30 11:45:00,Water,20.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-30 11:45:00,From abi,20.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2021-12-30 11:45:00,Rapido + toll,286.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2021-12-30 11:44:00,From Deepak,250.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2021-12-28 13:42:00,Coffee and thattai,14.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-27 13:45:00,Lunch with barath,115.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-27 13:44:00,From vicky,80.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2021-12-27 12:33:00,From ganesan,40.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2021-12-27 12:33:00,Coconut water with stu,50.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-25 22:53:00,Dinner with barath,504.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-25 20:46:00,Cab,306.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2021-12-25 19:50:00,Books,400.0,INR,Expense,Education,Self-development,Net Banking / UPI (CUB),False
+2021-12-25 17:01:00,Corn,30.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-25 15:35:00,Water,30.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-25 13:32:00,Milk with bharath,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-24 21:49:00,Beer,150.0,INR,Expense,Entertainment,Social Life,Net Banking / UPI (CUB),False
+2021-12-24 14:35:00,Lunch with company,262.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-23 16:31:00,Lemon tea with company,15.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-23 13:51:00,Puffs and coffee,32.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-21 20:53:00,Dinner with barath,239.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-21 14:02:00,Puffs,25.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-21 11:43:00,Bun,18.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-20 19:23:00,Milk with bharath,80.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-20 19:22:00,Taxi,80.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2021-12-20 16:55:00,Snacks,20.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-20 15:29:00,Water,20.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-20 13:35:00,Lunch with barath,85.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-20 09:46:00,Milk with bharath,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-19 15:51:00,To siva,100.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2021-12-18 21:01:00,To kumara,100.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2021-12-18 21:01:00,To abijith,200.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2021-12-18 21:00:00,To rahul,113.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-18 21:00:00,From dad,1000.0,INR,Income,Income,Allowance,Net Banking / UPI (CUB),False
+2021-12-18 19:52:00,Lended money,400.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2021-12-18 19:51:00,Spiderman,363.72,INR,Expense,Entertainment,Social Life,Net Banking / UPI (CUB),False
+2021-12-18 14:19:00,Lunch,160.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-17 18:54:00,Milk with bharath,70.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-17 14:45:00,Lunch with company,110.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-17 08:35:00,Gave to gowdham,50.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2021-12-16 18:44:00,Egg,30.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-16 18:35:00,Panipoori,20.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-16 13:38:00,Lunch,30.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-16 10:42:00,Milk with bharath,110.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-14 23:54:00,Lunch,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-14 21:21:00,Snacks,75.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-14 21:03:00,Panipoori,80.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-14 15:18:00,Snacks,74.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-14 10:33:00,Milk with bharath,65.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-12 21:47:00,Milk with bharath,25.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-11 09:22:00,From dad,1000.0,INR,Income,Income,Allowance,Net Banking / UPI (CUB),False
+2021-12-11 08:20:00,From stu,240.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2021-12-10 21:38:00,Shopping,241.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-10 20:55:00,Momos,195.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-09 20:03:00,Snack with bharath,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-09 14:01:00,Lunch with company,280.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-09 09:56:00,Milk with bharath,25.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-09 08:47:00,Breakfast with stu,110.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-08 14:15:00,Lunch with stu,100.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-08 14:15:00,5 star,15.0,USD,Expense,Food,Food,Cash,True
+2021-12-08 07:17:00,Milk,10.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-07 09:54:00,Milk with bharath,25.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-07 07:59:00,Horlicks,15.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-06 21:59:00,Milk with bharath,25.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-06 20:07:00,Shoe,500.0,INR,Expense,Shopping,Apparel,Net Banking / UPI (CUB),False
+2021-12-06 19:57:00,Cap,140.0,INR,Expense,Shopping,Apparel,Net Banking / UPI (CUB),False
+2021-12-06 14:08:00,Lunch with stu,150.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-05 19:45:00,Milk with bharath,25.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-05 18:41:00,Full hand and a hoodie,1800.0,INR,Expense,Shopping,Apparel,Net Banking / UPI (CUB),False
+2021-12-05 12:23:00,Rent,4800.0,INR,Expense,Rent,Household,Net Banking / UPI (CUB),False
+2021-12-05 12:23:00,From dad,8000.0,INR,Income,Income,Allowance,Net Banking / UPI (CUB),False
+2021-12-04 21:05:00,Dinner,324.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-04 20:20:00,Snack,65.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-04 13:54:00,For company,30.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2021-12-04 10:13:00,Breakfast,200.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-03 21:59:00,Milk with bharath,25.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-03 21:59:00,Belt,130.0,INR,Expense,Shopping,Apparel,Net Banking / UPI (CUB),False
+2021-12-03 21:28:00,Mask,20.0,INR,Expense,Shopping,Apparel,Net Banking / UPI (CUB),False
+2021-12-03 21:28:00,Snack,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-03 21:28:00,From dad,1000.0,INR,Income,Income,Allowance,Net Banking / UPI (CUB),False
+2021-12-02 20:07:00,Ice cream,504.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-02 19:48:00,Vadapaav,75.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-12-01 19:57:00,Showergel,196.0,INR,Expense,Personal Care,Beauty,Net Banking / UPI (CUB),False
+2021-12-01 14:00:00,Lunch with company,160.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-30 14:24:00,Bharath birthday,115.0,INR,Expense,Gifts,Gift,Net Banking / UPI (CUB),False
+2021-11-30 14:17:00,Lunch with company,128.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-30 10:11:00,Breakfast,70.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-29 20:47:00,Lunch with company,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-29 20:47:00,Dinner,50.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-29 20:09:00,Panipoori,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-29 09:29:00,Breakfast,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-28 19:59:00,Snack,94.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-28 13:10:00,Zomato,269.4,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-27 23:14:00,Dinner with gowdham,120.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-27 22:34:00,Dinner with gowdham,130.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-27 18:41:00,Rapido,35.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2021-11-27 13:46:00,Lunch with company,75.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-27 13:46:00,From dad,2000.0,INR,Income,Income,Allowance,Net Banking / UPI (CUB),False
+2021-11-27 09:33:00,Breakfast,30.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-26 21:56:00,Beer,150.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-26 20:57:00,Snack,102.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-26 20:15:00,Panipoori,40.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-26 14:14:00,Cashback,3.0,INR,Income,Cashback / Rewards,Petty cash,Net Banking / UPI (CUB),False
+2021-11-26 14:14:00,Lunch with company,150.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-26 09:22:00,Breakfast,60.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-25 20:27:00,Lunch with company,145.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-25 20:27:00,Rapido,58.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2021-11-25 20:27:00,Dinner,95.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-24 19:26:00,Snack,15.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-24 19:23:00,Dinner,70.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-24 19:06:00,Panipoori,20.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-24 19:06:00,Rapido,58.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2021-11-23 22:53:00,Rapido,50.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2021-11-23 22:53:00,Dinner,179.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-22 14:16:00,Dinner,90.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-22 14:16:00,Lunch with company,97.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-21 17:07:00,Rapido,130.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2021-11-21 15:50:00,Lunch,875.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2021-11-21 13:30:00,Got from gobi,2000.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False

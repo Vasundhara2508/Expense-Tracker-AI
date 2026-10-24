@@ -1,0 +1,2 @@
+date,description,amount,currency,transaction_type,category,original_category,payment_method,is_usd,inr_equivalent,exchange_rate_inr_per_usd
+2021-12-08 14:15:00,5 star,15.0,USD,Expense,Food,Food,Cash,True,1120.72,74.7147

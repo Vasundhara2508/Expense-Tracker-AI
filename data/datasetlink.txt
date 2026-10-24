@@ -1,0 +1,5 @@
+Dataset A:
+https://www.kaggle.com/datasets/tharunprabu/my-expenses-data?resource=download
+
+Dataset B:
+https://huggingface.co/datasets/kaifkazi13/us-bank-transaction-categories-v2?utm_source=chatgpt.com&library=datasets

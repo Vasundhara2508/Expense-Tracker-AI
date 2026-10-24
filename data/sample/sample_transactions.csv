@@ -1,0 +1,11 @@
+date,description,amount,currency,transaction_type,category,original_category,payment_method,is_usd
+2022-03-02 10:11:00,Brownie,50.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-03-02 10:11:00,To lended people,300.0,INR,Expense,Other,Other,Net Banking / UPI (CUB),False
+2022-03-01 19:50:00,Dinner,78.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-03-01 18:56:00,Metro,30.0,INR,Expense,Transportation,Transportation,Net Banking / UPI (CUB),False
+2022-03-01 18:22:00,Snacks,67.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-28 11:56:00,Pizza,339.15,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-27 15:29:00,Lunch,243.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-02-26 20:16:00,Unspecified expense,25.0,INR,Expense,Food,Food,Net Banking / UPI (CUB),False
+2022-03-01 18:22:00,From vicky,100.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False
+2022-03-01 18:21:00,From dad,500.0,INR,Income,Income,Other,Net Banking / UPI (CUB),False

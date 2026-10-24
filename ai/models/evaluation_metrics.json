@@ -1,0 +1,28 @@
+{
+  "accuracy": 0.996,
+  "macro_precision": 0.996,
+  "macro_recall": 0.9966,
+  "macro_f1": 0.9963,
+  "weighted_f1": 0.9959,
+  "train_samples": 36553,
+  "test_samples": 9139,
+  "categories": [
+    "Education",
+    "Entertainment",
+    "Fees",
+    "Groceries",
+    "Healthcare",
+    "Income",
+    "Insurance",
+    "Mortgage",
+    "Personal Care",
+    "Rent",
+    "Restaurants",
+    "Shopping",
+    "Subscription",
+    "Transfer",
+    "Transportation",
+    "Travel",
+    "Utilities"
+  ]
+}
